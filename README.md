@@ -1,5 +1,7 @@
 # Telegraph: Combining History, Graph Theory, and Data Structures for Kids
 
+<img width="463" alt="tg" src="https://user-images.githubusercontent.com/73317763/148261179-6f0ea8e1-d4b2-4f5f-b04c-28fce8fa37a8.png"> 
+
 This repository contains materials from an education outreach workshop.
 The goal of the workshop is to introduce basic computer science concepts related to graph theory, data structures, and programming in an interdisciplinary way through the history of the US telegraph network. 
 \
